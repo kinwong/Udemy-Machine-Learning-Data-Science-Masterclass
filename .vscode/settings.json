@@ -3,6 +3,7 @@
         "arange",
         "dtype",
         "myarray",
-        "randn"
+        "randn",
+        "RMSE"
     ]
 }
